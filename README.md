@@ -1,1 +1,1 @@
-# emotion-tracking-foodbot
+# Emotion-Tracking-FoodBot
