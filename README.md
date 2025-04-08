@@ -37,4 +37,8 @@ Located in `db_connector.py`, key DB functions include:
 - `get_order_status(order_id)`: Retrieves the current status of an order.
 - `get_total_order_price(order_id)`: Returns the price of the completed order.
 
+## Emotion-detection
+- I have trained a Roberta Model on `Go Emotion dataset` from HuggingFace + 5k generated from chatgpt to handle imbalance in Go Emotion dataset.
+- Note: code for this is in `Go_emotion_label_Classification-using-Roberta-Model` repo.
+
 Disclaimer : I have use the resources of database from  codebasics github
